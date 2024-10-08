@@ -9,6 +9,4 @@
 * for PXT/microbit
 (The metadata above is needed for package search.)
 
-```package
-sensors=github:lioujj/pxt-sensors
-```
+
